@@ -1,0 +1,20 @@
+NAME: ALEX
+PHONE: 79895318879
+IC: 950502018091
+CAR: C487EC161
+BRAND: MERCEDES
+MODEL: E200
+HOUR: 5
+PAYMENT: 7500
+DATE: 08/11/2022 TIME: 19:41:53
+==========================================================
+NAME: ALEX
+PHONE: 79895318879
+IC: 950502018091
+CAR: PDC602
+BRAND: PROTON
+MODEL: SAGA
+HOUR: 3
+PAYMENT: 24
+DATE: 08/11/2022 TIME: 19:52:43
+==========================================================
